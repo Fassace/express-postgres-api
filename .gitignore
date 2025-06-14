@@ -1,2 +1,5 @@
-.env
+.config
 node_modules
+.env
+controllers
+routes
